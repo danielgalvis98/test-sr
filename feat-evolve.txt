@@ -1,3 +1,2 @@
 This is my first feature
- Second feature
- 
+Correct Second feature
