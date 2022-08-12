@@ -1,4 +1,4 @@
 {
-  "branches": ["main"],
+  "branches": ["main", {"name": "release/next", "prerelease": "next"}],
   "plugins": ["@semantic-release/commit-analyzer", "@semantic-release/release-notes-generator"]
 }
