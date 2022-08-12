@@ -3,3 +3,4 @@ Correct Second feature
 Add new feature
 Other feat
 Like feature
+My last feature
