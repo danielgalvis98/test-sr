@@ -1,3 +1,5 @@
 This is my first feature fixed
 Correct Second feature
 Add new feature
+Other feat
+Like feature
