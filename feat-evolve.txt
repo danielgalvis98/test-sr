@@ -1,6 +1,6 @@
 This is my first feature fixed
 Correct Second feature
 Add new feature
-Other feat
+A BREAKING CHANGE
 Like feature
 My last feature
