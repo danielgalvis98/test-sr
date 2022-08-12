@@ -2,5 +2,6 @@ This is my first feature fixed
 Correct Second feature
 Add new feature
 A BREAKING CHANGE
+Other feat
 Like feature
 My last feature
